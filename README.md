@@ -1,2 +1,0 @@
-# CodingGame
-challenge is on

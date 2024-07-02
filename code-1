@@ -1,0 +1,8 @@
+n = int(input())
+for i in range(n):
+    row = input()
+    a=row.replace("o","x")
+    print(a)
+
+output:
+o changes x,x changes o
